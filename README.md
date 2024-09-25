@@ -27,9 +27,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a backg
  
 - [Personal Portfolio](https://ibraheem-areeda.github.io/Personal-Portfolio/): A showcase of my personal projects and technical skills.
  
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ibraheem-areeda)](https://git.io/streak-stats)
- 
 ### 🌐 Connect with Me
  
 - [LinkedIn](https://www.linkedin.com/in/ibraheem-areeda/): Let's connect and collaborate on exciting projects.
