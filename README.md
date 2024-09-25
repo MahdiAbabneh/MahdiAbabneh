@@ -2,7 +2,7 @@
  
 ## Full-Stack Mobile Developer
  
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a background in Architecture, currently based in Amman, Jordan. I'm dedicated to crafting web solutions that combine creativity with technical excellence.. Here's a glimpse of what I bring to the table:
+Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer, currently based in Amman, Jordan. I'm dedicated to crafting Mobile Apps solutions that combine creativity with technical excellence.. Here's a glimpse of what I bring to the table:
  
 - 🔭 **Experience**: 
  
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a backg
  
 ### 🌐 Connect with Me
  
-- [LinkedIn](https://www.linkedin.com/in/ibraheem-areeda/): Let's connect and collaborate on exciting projects.
+- [LinkedIn](https://jo.linkedin.com/in/mahdi-ababneh-2619b824a): Let's connect and collaborate on exciting projects.
  
 - [GitHub](https://github.com/MahdiAbabne): Explore my repositories and contributions
  
