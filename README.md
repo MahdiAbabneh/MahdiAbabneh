@@ -2,11 +2,14 @@
  
 ## Full-Stack Mobile Developer
  
-Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer, currently based in Amman, Jordan. I'm dedicated to crafting Mobile Apps solutions that combine creativity with technical excellence.. Here's a glimpse of what I bring to the table:
+Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer. I'm dedicated to crafting Mobile Apps solutions that combine creativity with technical excellence.. Here's a glimpse of what I bring to the table:
  
 - 🔭 **Experience**: Skilled in mobile development with a focus on user-friendly and scalable apps.
 - 🌟 **Skills**: Java, Dart, PHP, SQL, Flutter, Spring Boot, Laravel.
 - 🌐 **Web Technologies**: Strong background in backend development with Laravel and Spring Boot.
+- 🤖 **AI Enthusiast**: Interested in using AI to make apps smarter and more intuitive.
+- 🎨 **Design**: Focused on clean, simple, and effective design.
+- 📚 **Continuous Learning**:  Always learning new tools and keeping up with the latest tech trends.
 
 ### 🚀 Check out my Apps
 
