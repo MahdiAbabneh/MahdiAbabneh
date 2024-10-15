@@ -38,7 +38,16 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer, curr
  
 - 📱 Phone:+962780345907
  
+## Support the “Muslim Life Guide”:
+
+If you find value in the Muslim Life Guide app, your support helps us continue to improve and grow.
+
+Thank you for being a part of our community and supporting our journey!
+
+<a href="https://buymeacoffee.com/mahdiababneh" target="_blank">
+  <img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" alt="Support the Muslim Life Guide" width="200"/>
+</a>
+
 ### 🌟 Let's Collaborate and Innovate! 🌟
 
-[![Support the “Muslim Life Guide”](https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png)](https://buymeacoffee.com/mahdiababneh)
 
