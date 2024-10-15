@@ -5,18 +5,12 @@
 Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer, currently based in Amman, Jordan. I'm dedicated to crafting Mobile Apps solutions that combine creativity with technical excellence.. Here's a glimpse of what I bring to the table:
  
 - 🔭 **Experience**: Skilled in mobile development with a focus on user-friendly and scalable apps.
- 
 - 🌐 **Web Technologies**: Strong background in backend development with Laravel and Spring Boot.
- 
 - 🌟 **Skills**: Java, Dart, PHP, SQL, Flutter, Spring Boot, Laravel.
- 
 - 🤖 **AI Enthusiast**: Interested in using AI to make apps smarter and more intuitive.
- 
 - 🎨 **Design**: Focused on clean, simple, and effective design.
- 
 - 📚 **Continuous Learning**:  Always learning new tools and keeping up with the latest tech trends.
 
- 
 ### 🚀 Check out my Apps
 
  - [Muslim Life Guide (Android)](https://play.google.com/store/apps/details?id=mahdi.app.muslimlifeguide) : – **10K+ Downloads** 
@@ -29,7 +23,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer, curr
 ## Support the “Muslim Life Guide App”:
 
 If you find value in the Muslim Life Guide app, your support helps us continue to improve and grow.
-
 Thank you for being a part of our community and supporting our journey!
 
 <a href="https://buymeacoffee.com/mahdiababneh" target="_blank">
@@ -39,16 +32,13 @@ Thank you for being a part of our community and supporting our journey!
 ### 🌐 Connect with Me
  
 - [LinkedIn](https://jo.linkedin.com/in/mahdi-ababneh-2619b824a): Let's connect and collaborate on exciting projects.
- 
 - [GitHub](https://github.com/MahdiAbabne): Explore my repositories and contributions
   
  
 ### 📫 Contact Information
  
 - 📧 Email:mahdiababneh37@gmail.com
- 
 - 📱 Phone:+962780345907
-
   
 ### 🌟 Let's Collaborate and Innovate! 🌟
 
