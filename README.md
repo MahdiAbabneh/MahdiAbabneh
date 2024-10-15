@@ -40,5 +40,5 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer, curr
  
 ### 🌟 Let's Collaborate and Innovate! 🌟
 
-[![Support the “Muslim Life Guide” ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codehim.com%2Fbuy-me-a-coffee%2F&psig=AOvVaw2c_pq0mTa-VLer7ZUBFj-t&ust=1729065712286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCsh-_1j4kDFQAAAAAdAAAAABAE)]([https://www.digitalocean.com/products/app-platform](https://buymeacoffee.com/mahdiababneh))
+[![Support the “Muslim Life Guide” ](https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png)]([https://www.digitalocean.com/products/app-platform](https://buymeacoffee.com/mahdiababneh))
 
