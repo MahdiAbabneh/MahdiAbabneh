@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer. I'm 
  
 - 📧 Email:mahdiababneh37@gmail.com
 - 📱 Phone:+962780345907
-- [LinkedIn](https://jo.linkedin.com/in/mahdi-ababneh-2619b824a): Let's connect and collaborate on exciting projects.
+- 🌐 [LinkedIn]
 
 ## Support the “Muslim Life Guide App”:
 
