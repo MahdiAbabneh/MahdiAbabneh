@@ -27,7 +27,7 @@ Thank you for being a part of our community and supporting our journey!
   <img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" alt="Support the Muslim Life Guide" width="200"/>
 </a>
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
  
 - [LinkedIn](https://jo.linkedin.com/in/mahdi-ababneh-2619b824a): Let's connect and collaborate on exciting projects.
 - [GitHub](https://github.com/MahdiAbabne): Explore my repositories and contributions
@@ -38,6 +38,6 @@ Thank you for being a part of our community and supporting our journey!
 - 📧 Email:mahdiababneh37@gmail.com
 - 📱 Phone:+962780345907
   
-## 🌟 Let's Collaborate and Innovate! 🌟
+### 🌟 Let's Collaborate and Innovate! 🌟
 
 
