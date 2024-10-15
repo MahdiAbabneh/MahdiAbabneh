@@ -26,19 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer, curr
  - [Note With us (Android)](https://play.google.com/store/apps/details?id=at.mahdi.notewithus)
 
  
-### 🌐 Connect with Me
- 
-- [LinkedIn](https://jo.linkedin.com/in/mahdi-ababneh-2619b824a): Let's connect and collaborate on exciting projects.
- 
-- [GitHub](https://github.com/MahdiAbabne): Explore my repositories and contributions
- 
-### 📫 Contact Information
- 
-- 📧 Email:mahdiababneh37@gmail.com
- 
-- 📱 Phone:+962780345907
- 
-## Support the “Muslim Life Guide”:
+## Support the “Muslim Life Guide App”:
 
 If you find value in the Muslim Life Guide app, your support helps us continue to improve and grow.
 
@@ -48,6 +36,20 @@ Thank you for being a part of our community and supporting our journey!
   <img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" alt="Support the Muslim Life Guide" width="200"/>
 </a>
 
+### 🌐 Connect with Me
+ 
+- [LinkedIn](https://jo.linkedin.com/in/mahdi-ababneh-2619b824a): Let's connect and collaborate on exciting projects.
+ 
+- [GitHub](https://github.com/MahdiAbabne): Explore my repositories and contributions
+  
+ 
+### 📫 Contact Information
+ 
+- 📧 Email:mahdiababneh37@gmail.com
+ 
+- 📱 Phone:+962780345907
+
+  
 ### 🌟 Let's Collaborate and Innovate! 🌟
 
 
