@@ -18,12 +18,13 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer, curr
 
  
 ### 🚀 Check out my Apps
- 
-- [Note With us-Andriod](https://play.google.com/store/apps/details?id=at.mahdi.notewithus)
-- [Muslim Life Guide-Andriod](https://play.google.com/store/apps/details?id=mahdi.app.muslimlifeguide)
-- [Studio HD-Andriod](https://play.google.com/store/apps/detailsid=mahdi.app.wallpapersfreehd&hl=en_US)
-- [Muslim Life Guide-IOS](https://apps.apple.com/fr/app/%D8%AF%D9%84%D9%8A%D9%84-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85/id6472816228)
-- [Studio HD-IOS](https://apps.apple.com/fr/app/studio-hd/id6473664481)
+
+ - [Muslim Life Guide (Android)](https://play.google.com/store/apps/details?id=mahdi.app.muslimlifeguide) : – **10K+ Downloads** 
+ - [Muslim Life Guide (IOS)](https://apps.apple.com/fr/app/%D8%AF%D9%84%D9%8A%D9%84-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85/id6472816228)
+ - [Studio HD (Android)](https://play.google.com/store/apps/detailsid=mahdi.app.wallpapersfreehd&hl=en_US)
+ - [Studio HD (IOS)](https://apps.apple.com/fr/app/studio-hd/id6473664481)
+ - [Note With us (Android)](https://play.google.com/store/apps/details?id=at.mahdi.notewithus)
+
  
 ### 🌐 Connect with Me
  
