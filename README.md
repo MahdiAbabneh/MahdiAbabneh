@@ -2,7 +2,7 @@
  
 ## Senior Mobile Developer
  
-Welcome to my GitHub profile! I'm a passionate Full Stack Mobile Developer. I'm dedicated to crafting Mobile Apps solutions that combine creativity with technical excellence.. Here's a glimpse of what I bring to the table:
+Welcome to my GitHub profile! I'm a passionate Senior Mobile Developer. I'm dedicated to crafting Mobile Apps solutions that combine creativity with technical excellence.. Here's a glimpse of what I bring to the table:
  
 - 🔭 **Experience**: Skilled in mobile development with a focus on user-friendly and scalable apps.
 - 🌟 **Skills**: Java, Dart, PHP, SQL, Flutter, Spring Boot, Laravel.
