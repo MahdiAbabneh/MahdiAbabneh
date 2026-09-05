@@ -1,34 +1,39 @@
-# Hi there, I'm Mahdi Ababneh 👋
- 
-## Senior Mobile Developer
- 
-Welcome to my GitHub profile! I'm a passionate Senior Mobile Developer. I'm dedicated to crafting Mobile Apps solutions that combine creativity with technical excellence.. Here's a glimpse of what I bring to the table:
- 
-- 🔭 **Experience**: Skilled in mobile development with a focus on user-friendly and scalable apps.
-- 🌟 **Skills**: Java, Dart, PHP, SQL, Flutter, Spring Boot, Laravel.
-- 🌐 **Web Technologies**: Strong background in backend development with Laravel and Spring Boot.
-- 🤖 **AI Enthusiast**: Interested in using AI to make apps smarter and more intuitive.
-- 🎨 **Design**: Focused on clean, simple, and effective design.
-- 📚 **Continuous Learning**:  Always learning new tools and keeping up with the latest tech trends.
+# Mahdi Ababneh
 
-## 🚀 Check out my Apps
+**Senior Mobile Developer** — Flutter · iOS · Android  
+Jordan · [LinkedIn](https://jo.linkedin.com/in/mahdi-ababneh-2619b824a) · mahdiababneh37@gmail.com
 
- - [Muslim Life Guide (Android)](https://play.google.com/store/apps/details?id=mahdi.app.muslimlifeguide) | [Muslim Life Guide (IOS)](https://apps.apple.com/fr/app/%D8%AF%D9%84%D9%8A%D9%84-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85/id6472816228) : **10K+ Downloads** 
- - [Studio HD (Android)](https://play.google.com/store/apps/details?id=mahdi.app.wallpapersfreehd&hl=en) | [Studio HD (IOS)](https://apps.apple.com/fr/app/studio-hd/id6473664481)
- - [Note With us (Android)](https://play.google.com/store/apps/details?id=at.mahdi.notewithus)
-  
-## 📫 Contact Information
- 
-- 📱 Phone: +962780345907
-- 📧 Email: mahdiababneh37@gmail.com
-- 🌐 [LinkedIn](https://jo.linkedin.com/in/mahdi-ababneh-2619b824a)
+I ship production mobile apps end to end — product, Flutter code, native
+platform work, backend, store release, and long-term maintenance.
 
-## Support the “Muslim Life Guide App”:
+---
 
-If you find value in the Muslim Life Guide app, your support helps us continue to improve and grow.
-Thank you for being a part of our community and supporting our journey!
+## Apps
 
-<a href="https://buymeacoffee.com/mahdiababneh" target="_blank">
-  <img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" alt="Support the Muslim Life Guide" width="200"/>
-</a>
+### دليل حياة المسلم · Muslim Life Guide
 
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6472816228)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=mahdi.app.muslimlifeguide)
+![Downloads](https://img.shields.io/badge/downloads-10K%2B-success)
+
+
+### Studio HD
+[App Store](https://apps.apple.com/fr/app/studio-hd/id6473664481) · [Google Play](https://play.google.com/store/apps/details?id=mahdi.app.wallpapersfreehd)
+
+### Note With Us
+[Google Play](https://play.google.com/store/apps/details?id=at.mahdi.notewithus)
+
+---
+
+## Toolbox
+
+**Mobile** Flutter · Dart · Swift/Kotlin platform channels · WidgetKit  
+**Backend** Spring Boot · Laravel · PHP · Java · SQL  
+**Ship & operate** App Store Connect · Google Play Console · Firebase ·
+in-app purchases · push & local notifications · accessibility auditing
+
+---
+
+## Support
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mahdiababneh)
